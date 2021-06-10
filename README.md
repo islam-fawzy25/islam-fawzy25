@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there,  👋
+ 
+  I'm a web developer looking for a new challenge in software development. I am always aiming to do my best
+   and achieve the target defined along with collaborating with my team members. 
 
-<!--
-**islam-fawzy25/islam-fawzy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on intensive course at [HackYourFuture Copenhagen](https://www.hackyourfuture.dk/).
+- 🌱 I’m currently learning ReactJs and WordPress.
+- 👯 I’m looking to collaborate on ReactJs and Javascript.
+- 🤔 I’m looking for help with Flexbox CSS.
+- 💬 Ask me about  anything, I will try my best.
+- 📫 How to reach me: [Email](islam.fawzy25@hotmail.com) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
+- 😄 Pronouns: Nerd , helper.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
