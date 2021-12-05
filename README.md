@@ -10,4 +10,4 @@
 - 💬 Ask me about  anything, I will try my best.
 - 📫 How to reach me: [Email](islam.fawzy@outlook.dk) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
 - 😄 Pronouns: Self learner , Team player.
-
+- ⚡ Fun fact: I can't stop learning. 
