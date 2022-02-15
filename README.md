@@ -3,7 +3,7 @@
   I'm a web developer looking for a new challenge in software development. I am always aiming to do my best
    and achieve the target defined along with collaborating with my team members. 
 
-- 🔭 I’m currently working on developing my project.
+- 🔭 I’m currently working on developing my projects.
 - 🌱 I’m currently learning new skills with Csharp and Umbraco.
 - 👯 I’m looking to collaborate on MERN stack.
 - 🤔 I’m looking for help with Azure.
