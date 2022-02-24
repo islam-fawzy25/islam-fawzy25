@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on developing my projects.
 - 🌱 I’m currently learning new skills with Csharp and Umbraco.
 - 👯 I’m looking to collaborate on MERN stack.
-- 🤔 I’m looking for help with Azure.
+- 🤔 I’m looking for help with Umbraco.
 - 💬 Ask me about  anything, I will try my best.
 - 📫 How to reach me: [Email](islam.fawzy@outlook.dk) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
 - 😄 Pronouns: Self learner , Team player.
