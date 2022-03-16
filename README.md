@@ -13,4 +13,4 @@
 - ⚡ Fun fact: I can't stop learning. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=dark)
