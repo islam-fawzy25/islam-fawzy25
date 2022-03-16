@@ -13,6 +13,6 @@
 - ⚡ Fun fact: I can't stop learning. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-fawzy25&show_icons=true&theme=dark)](https://github.com/islam-fawzy25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-fawzy25&show_icons=true&theme=)](https://github.com/islam-fawzy25/github-readme-stats)
