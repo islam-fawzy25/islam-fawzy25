@@ -4,7 +4,8 @@
    and achieve the target defined along with collaborating with my team members. 
 
 - 🔭 I’m currently working on developing my projects.
-- 🌱 I’m currently learning new skills with Csharp and Angular.
+- 🌱 I’m currently learning new skills with Csharp and Azure.
+.
 - 👯 I’m looking to collaborate on MERN stack.
 - 🤔 I’m looking for help with C#.
 - 💬 Ask me about  anything, I will try my best.
