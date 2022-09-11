@@ -3,15 +3,13 @@
   I'm a web developer looking for a new challenge in software development. I am always aiming to do my best
    and achieve the target defined along with collaborating with my team members. 
 
-- 🔭 I’m currently working on developing my projects.
-- 🌱 I’m currently learning new skills with Csharp and Azure.
-.
-- 👯 I’m looking to collaborate on MERN stack.
-- 🤔 I’m looking for help with  Azure.
+- 🔭 I’m currently working on improving my mentorship skills.
+- 🌱 I’m currently learning Serverless AWS master classes.
+- 👯 I’m looking to collaborate on complex apps.
 - 💬 Ask me about  anything, I will try my best.
 - 📫 How to reach me: [Email](islam.fawzy@outlook.dk) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
 - 😄 Pronouns: Self learner , Team player.
-- ⚡ Fun fact: I can't stop learning. 
+- ⚡ Fun fact: I shutdown my laptop everyday. 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=)
