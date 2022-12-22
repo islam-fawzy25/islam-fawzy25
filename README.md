@@ -11,7 +11,11 @@
 - ⚡ Pronouns: Self learner , Team player.
 - 😄 Fun fact: I shutdown my laptop everyday. 
 
+<hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-fawzy25&show_icons=true&theme=)](https://github.com/islam-fawzy25/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=islam-fawzy25)](https://github.com/islam-fawzy25/github-profile-trophy)      
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-fawzy25&show_icons=true&theme=)](https://github.com/islam-fawzy25/github-readme-stats)   
