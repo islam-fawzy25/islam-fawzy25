@@ -4,7 +4,7 @@
    and achieve the target defined along with collaborating with my team members. 
 
 - 🔭 I’m currently working on improving my mentorship skills.
-- 🌱 I’m currently learning Serverless AWS master classes.
+- 🌱 I’m currently learning Unit testing Jest and TDD.
 - 👯 I’m looking to collaborate on complex apps.
 - 💬 Ask me about  anything, I will try my best.
 - 📫 How to reach me: [Email](islam.fawzy@outlook.dk) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
