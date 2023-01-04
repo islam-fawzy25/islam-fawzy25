@@ -7,9 +7,12 @@
 - 🌱 I’m currently learning Unit testing Jest and TDD.
 - 👯 I’m looking to collaborate on complex apps.
 - 💬 Ask me about  anything, I will try my best.
-- 📫 How to reach me: [Email](islam.fawzy@outlook.dk) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
 - ⚡ Pronouns: Self learner , Team player.
 - 😄 Fun fact: I shutdown my laptop everyday. 
+- 📫 How to reach me: [Email](islam.fawzy@outlook.dk) , [LinkedIn](https://www.linkedin.com/in/islam-fawzy/)
+
+- Code wars: [![Code wars](https://www.codewars.com/users/islam-fawzy25/badges/small?theme=light)](https://www.codewars.com/users/islam-fawzy25/)      
+
 
 <hr/>
 
