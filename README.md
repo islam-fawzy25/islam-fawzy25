@@ -16,9 +16,9 @@
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=islam-fawzy25&show_icons=true&theme=)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=islam-fawzy25)](https://github.com/islam-fawzy25/github-profile-trophy)      
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-fawzy25&show_icons=true&theme=)](https://github.com/islam-fawzy25/github-readme-stats)   
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islam-fawzy25&show_icons=true&theme=)](https://github.com/islam-fawzy25/github-readme-stats)   
